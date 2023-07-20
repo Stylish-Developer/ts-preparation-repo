@@ -21,3 +21,10 @@ code {
   font-family: "Assistant", sans-serif, source-code-pro, Menlo, Monaco, Consolas,
     "Courier New", monospace;
 }
+
+
+button {
+  width: 100px;
+  height: auto;
+  margin: 10px
+}

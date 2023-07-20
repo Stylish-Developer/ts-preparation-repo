@@ -5,6 +5,7 @@ import BasicProps from "./components/basicprops";
 import EventProps from "./components/eventprops";
 import CssProps from "./components/styleprops";
 import TypingProps from "./components/typingprops";
+import HooksType from "./hooks";
 
 // -- App component
 const App = () => {
@@ -16,6 +17,7 @@ const App = () => {
       <AdvanceProps />
       <EventProps />
       <CssProps />
+      <HooksType />
     </>
   );
 };
